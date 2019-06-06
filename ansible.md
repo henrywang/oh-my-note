@@ -11,3 +11,6 @@ symlink from /usr/bin/python to /usr/bin/python3 you have potentially broken
 anything that expects /usr/bin/python to be Python 2. That might not bite
 you now but it might surprise you in the future.
 
+### ansible as test framework
+https://github.com/projectatomic/atomic-host-tests/blob/master/callback_plugins/default.py
+
