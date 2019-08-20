@@ -24,3 +24,9 @@ https://github.com/hayderimran7/useful-jenkins-groovy-init-scripts
 
 ### get token from secret
 oc get sa/builder --template='{{range .secrets}}{{ .name  }} {{end}}' | xargs -n 1 oc get secret --template='{{ if .data.token  }}{{ .data.token  }}{{end}}' | head -n 1 | base64 -d -
+
+### umb
+https://datagrepper.engineering.redhat.com/umb/index.html
+
+### datagrepper query link
+https://datagrepper.engineering.redhat.com/raw?topic=/topic/VirtualTopic.eng.brew.build.complete&rows_per_page=1&delta=2592000&contains=cockpit-composer
