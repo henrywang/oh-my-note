@@ -14,3 +14,19 @@ you now but it might surprise you in the future.
 ### ansible as test framework
 https://github.com/projectatomic/atomic-host-tests/blob/master/callback_plugins/default.py
 
+### download file from http/s, ftp
+https://docs.ansible.com/ansible/latest/modules/get_url_module.html
+
+### copy and extract iso
+https://docs.ansible.com/ansible/latest/modules/list_of_files_modules.html
+
+### checksum file
+https://docs.ansible.com/ansible/latest/modules/stat_module.html
+
+### mktemp like ansible module
+https://docs.ansible.com/ansible/latest/modules/tempfile_module.html
+
+### kickstart with ansible
+https://github.com/rembik/ansible-role-kickstart-iso
+https://medium.com/@jackprice/pushing-kickstarts-with-ansible-122b2cd9c1e
+https://devopsmates.com/make-custom-centos-7-rhel-7-cd-kicktart-file/
