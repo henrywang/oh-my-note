@@ -30,3 +30,6 @@ https://docs.ansible.com/ansible/latest/modules/tempfile_module.html
 https://github.com/rembik/ansible-role-kickstart-iso
 https://medium.com/@jackprice/pushing-kickstarts-with-ansible-122b2cd9c1e
 https://devopsmates.com/make-custom-centos-7-rhel-7-cd-kicktart-file/
+
+### ansible blog
+http://www.mydailytutorials.com/category/tutorials/ansible/
