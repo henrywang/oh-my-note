@@ -33,3 +33,6 @@ https://devopsmates.com/make-custom-centos-7-rhel-7-cd-kicktart-file/
 
 ### ansible blog
 http://www.mydailytutorials.com/category/tutorials/ansible/
+
+### Validate CA certificate in Ansible connecting with WinRM
+https://dodgydudes.se/validate-ca-certificate-in-ansible-connecting-with-winrm/
