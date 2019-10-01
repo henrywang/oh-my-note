@@ -17,6 +17,10 @@ https://github.com/sheehan/job-dsl-gradle-example
 
 Openshift route works on port 80 and 443 only due to haproxy. So port 50000 cannot be exposed outiside, that means openstack cloud plugin cannot work on JNLP if jenkins is on openshift. If the jslave container located in the same project as jenkins master located, this issue does not impact this scenario because things work on internal and no route needed.
 
+### currentResult vs result
+https://issues.jenkins-ci.org/browse/JENKINS-46325
+https://support.cloudbees.com/hc/en-us/articles/218554077-How-to-set-current-build-result-in-Pipeline-
+
 ## UMB
 
 ### rtt.ci
